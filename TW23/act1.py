@@ -12,3 +12,5 @@ print("My birthday is on",bday)
 print("I am a",gender)
 print("I live at ",address)
 print("I am currently taking ",course, "and I am now a", yrlvl,". :)")
+
+
